@@ -1,0 +1,1 @@
+To enable long cursortrail, add cursormiddle.png to root. To turn it back, delete cursormiddle.png from root.

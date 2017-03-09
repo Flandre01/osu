@@ -1,0 +1,2 @@
+--- Warning! ---
+These packs all have a different number of frames, so when you apply these, it's best to first delete the "lightingN-[#].png" and "lightingL-[#].png" files. Otherwise, it might look weird.

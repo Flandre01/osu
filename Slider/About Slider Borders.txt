@@ -1,0 +1,1 @@
+These folders contain Skin.ini to replace the slider border color. If you have customized the Skin.ini for whatever reason (probably Mania) copy and paste the value of SliderTrack from the Skin.ini in one of these folders to the Skin.ini in the root.
